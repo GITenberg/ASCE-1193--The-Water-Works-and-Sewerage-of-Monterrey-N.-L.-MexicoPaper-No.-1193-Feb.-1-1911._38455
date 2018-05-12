@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39478'
     url: http://www.gutenberg.org/2009/agents/39478
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38455#ASCE-1193--The-Water-Works-and-Sewerage-of-Monterrey-N.-L.-MexicoPaper-No.-1193-Feb.-1-1911.
 gutenberg_issued: '2011-12-31'
 gutenberg_type: Text
 identifiers:
